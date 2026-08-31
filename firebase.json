@@ -24,6 +24,7 @@
     }
   ],
   "hosting": {
+    "site": "coexisting",
     "public": "app/dist",
     "ignore": [
       "functions",
